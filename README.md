@@ -2,12 +2,12 @@
 
 A sleek, centralized, and performance-oriented Waybar configuration. This setup was built focusing on a clean developer workflow, featuring system monitoring and media controls with a vibrant deep purple aesthetic inspired by the Syntaxwave/Synthwave '84 palette.
 
-![Waybar Preview](<img width="2558" height="1078" alt="image" src="https://github.com/user-attachments/assets/d54ad613-7063-45db-8012-698291a61cc3" />
-)
+![Waybar Preview](https://img.shields.io/badge/Theme-Syntaxwave-8E00FF?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux)
 ![WM](https://img.shields.io/badge/WM-Hyprland-33ccff?style=for-the-badge)
 
 ---
+<img width="2558" height="1078" alt="image" src="https://github.com/user-attachments/assets/f4ad817e-dab3-4ed5-bf5f-933e9536855a" />
 
 ## ✨ Key Features
 
